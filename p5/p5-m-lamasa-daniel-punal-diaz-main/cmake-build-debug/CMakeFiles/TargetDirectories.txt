@@ -1,0 +1,3 @@
+/home/choped/Documents/segundo quatri/CP/p5/p5-m-lamasa-daniel-punal-diaz-main/cmake-build-debug/CMakeFiles/p5_m_lamasa_daniel_punal_diaz_main.dir
+/home/choped/Documents/segundo quatri/CP/p5/p5-m-lamasa-daniel-punal-diaz-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/choped/Documents/segundo quatri/CP/p5/p5-m-lamasa-daniel-punal-diaz-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
